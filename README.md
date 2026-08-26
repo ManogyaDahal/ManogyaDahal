@@ -1,10 +1,1 @@
-###### :introductioN tO myselF
-##### .i aM aN humaN
-#### .i lovE doinG sleepinG
-### .i lovE doinG eatinG
-## .i aM calleD [manogyA dahaL](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1)
-skilL
-```bash
-~ ls skills
-~ ls -a skills
-```
+###### I CAN PROUDLY SAY I CAN PRINT HELLO WORLD.
